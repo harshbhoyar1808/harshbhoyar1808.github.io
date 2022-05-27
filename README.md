@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/harshbhoyar1808/portfolio
+- Live Site URL: https://harshbhoyar1808.github.io/
 
 ## My process
 
